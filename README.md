@@ -48,7 +48,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - help me review the grid system
+- [Smooth Shadow](https://shadows.brumm.af/) - help me create a smooth shadow
 
 ## Author
 
