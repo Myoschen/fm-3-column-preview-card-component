@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://myoschen.github.io/fm-3-column-preview-card-component](https://github.com/Myoschen/fm-3-column-preview-card-component)
+- Solution URL: [https://github.com/Myoschen/fm-3-column-preview-card-component](https://github.com/Myoschen/fm-3-column-preview-card-component)
 - Live Site URL: [https://myoschen.github.io/fm-3-column-preview-card-component](https://myoschen.github.io/fm-3-column-preview-card-component)
 
 ## My process
