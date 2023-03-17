@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./screenshots/desktop.png)
-![mobile](./screenshots/mobile.png)
+|                Desktop                |               Mobile                |           When hovering           |
+| :-----------------------------------: | :---------------------------------: | :-------------------------------: |
+| ![desktop](./screenshots/desktop.png) | ![mobile](./screenshots/mobile.png) | ![hover](./screenshots/hover.png) |
 
 ### Links
 
@@ -50,6 +51,7 @@ Users should be able to:
 
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - help me review the grid system
 - [Smooth Shadow](https://shadows.brumm.af/) - help me create a smooth shadow
+- [Improved .sr-only](https://gist.github.com/ffoodd/000b59f431e3e64e4ce1a24d5bb36034)
 
 ## Author
 
